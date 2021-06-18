@@ -1,0 +1,16 @@
+gym
+gym_cartpole_swingup
+numpy
+scipy
+matplotlib
+setuptools
+attrdict
+seaborn
+torch
+ray
+yaml
+pyyaml
+knockknock
+tqdm
+pillow
+pandas

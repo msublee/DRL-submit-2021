@@ -1,0 +1,12 @@
+# state (5) + action (1)
+dim_x: 6
+# state (5) + reward (1)
+dim_y: 6
+dim_hid: 128
+
+enc_v_depth: 2
+enc_qk_depth: 2
+
+enc_pre_depth: 2
+enc_post_depth: 2
+dec_depth: 2
